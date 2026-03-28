@@ -1,2 +1,3 @@
 This is the inital commit changes created the file1.txt
 This is the second commit changes in the file1.txt
+Create new branch called develop and then switch to develop branch and make changes in the file1.txt
