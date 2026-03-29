@@ -1,2 +1,3 @@
 Character: Alice
 Character: Bob
+Charater: Charlie
