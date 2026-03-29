@@ -1,3 +1,4 @@
 Character: Alice
 Character: Bob
 Charater: Charlie
+Buggy line added by mistake 
